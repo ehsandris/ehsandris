@@ -1,5 +1,5 @@
 
-# Ehsan Daris 🧠
+# Ehsan Dris 🧠
 ### AI STUDENT & Product Architect
 
 `Product Design` • `Process Automation` • `Artificial Intelligence`
