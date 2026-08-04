@@ -1,4 +1,3 @@
-
 # Ehsan Dris 🧠
 ### AI STUDENT & Product Architect
 
@@ -22,7 +21,7 @@ My true passion lies in **Product Architecture**. I don't just write code; I loo
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** Python
+- **Languages:** Python, SQL
 - **Tools & Frameworks:** n8n, Git
 - **Focus:** AI Product Architecture, Process Improvement
 
@@ -34,7 +33,21 @@ An automated pipeline that extracts the latest news in the AI industry and broad
 
 ### 📫 Connect With Me
 
-*(Links will be added soon.)*
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/ehsandris/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://t.me/ehsandris">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/ehsandris/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
 
 ---
 
