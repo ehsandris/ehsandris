@@ -1,11 +1,8 @@
-<div align="center">
-  
+
 # Ehsan Daris 🧠
-<h3>AI STUDENT & Product Architect</h3>
+### AI STUDENT & Product Architect
 
 `Product Design` • `Process Automation` • `Artificial Intelligence`
-
-</div>
 
 ---
 
@@ -25,32 +22,21 @@ My true passion lies in **Product Architecture**. I don't just write code; I loo
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+- **Languages:** Python, SQL
+- **Tools & Frameworks:** n8n, Git
+- **Focus:** AI Product Architecture, Process Improvement
 
 ### 🔭 Featured Project
 
 **🤖 AI News Telegram Bot**  
-An automated pipeline that extracts the latest news in the AI industry and broadcasts it directly to a Telegram channel. *(Link coming soon!)*
+An automated pipeline that extracts the latest news in the AI industry and broadcasts it directly to a Telegram channel.  
+*(Repository link coming soon!)*
 
-### 📊 My GitHub Stats
+### 📫 Connect With Me
 
-<div align="center">
-  
-<img src="https://YOUR-PROJECT-NAME.vercel.app/api?username=ehsandris&show_icons=true&theme=white&hide_border=true&count_private=true" alt="Ehsan's GitHub Stats" />
-
-</div>
+*(Links will be added soon.)*
 
 ---
 
-<div align="center">
-  
-*“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs*
-
-</div>
+*"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs*
+```
