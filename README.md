@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 
-Hello! I'm Ehsan, an **AI STUDENT** with a unique background in trading and data. My journey in tech started with analyzing markets, which naturally led me to **Data (SQL)** and workflow automation **(n8n)**. Today, I am diving deep into **Artificial Intelligence (Python)** to build impactful products.
+Hello! I'm Ehsan, an **AI STUDENT** with a unique background in trading and data. My journey in tech started with analyzing markets, which naturally led me to **Data (SQL)** and workflow automation **(n8n)**. Today, I am diving deep into **Artificial Intelligence ** to build impactful products.
 
 My true passion lies in **Product Architecture**. I don't just write code; I look for bottlenecks in real-world processes and design AI-driven solutions to make life easier and create genuine value.
 
@@ -22,7 +22,7 @@ My true passion lies in **Product Architecture**. I don't just write code; I loo
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, SQL
+- **Languages:** Python
 - **Tools & Frameworks:** n8n, Git
 - **Focus:** AI Product Architecture, Process Improvement
 
