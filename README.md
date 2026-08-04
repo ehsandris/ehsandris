@@ -43,7 +43,7 @@ An automated pipeline that extracts the latest news in the AI industry and broad
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=ehsandris&show_icons=true&theme=white&hide_border=true&count_private=true" alt="Ehsan's GitHub Stats" />
+<img src="https://YOUR-PROJECT-NAME.vercel.app/api?username=ehsandris&show_icons=true&theme=white&hide_border=true&count_private=true" alt="Ehsan's GitHub Stats" />
 
 </div>
 
